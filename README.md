@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhanushvinayagar
 - 👀 I’m interested in programming and development.
-- 🌱 I’m currently learning Reactjs and Flutter
+- 🌱 I’m currently learning Node js and Vue js
 - 📫 You can reach me through dhanush22092002@gmail.com and Linkedin profile :
 
 <!---
