@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhanushvinayagar
-- 👀 I’m interested in programming and development.
+- 👀 I’m interested in programming and web development.
 - 📫 You can reach me through dhanush22092002@gmail.com and Linkedin profile :https://www.linkedin.com/in/dhanush-k-873523239
 
 
