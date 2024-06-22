@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhanushKandasamy
 - 👀 I’m interested in programming and web development.
-- I am currently learning Web services and Mobile app development.
+- I am currently learning Web services.
 - Ask me anything regarding Full stack development and programming.
 - 📫 You can reach me through dhanush22092002@gmail.com and my Linkedin profile :https://www.linkedin.com/in/dhanushk2002/
 
