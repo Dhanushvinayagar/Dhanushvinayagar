@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DhanushKandasamy
 - 👀 I’m interested in programming and web development.
 - Ask me anything regarding Full stack development and programming.
-- 📫 You can reach me through dhanush22092002@gmail.com and my Linkedin profile :https://www.linkedin.com/in/dhanushk2002/
+- 📫 You can reach me through dhanushksamy@gmail.com(Primary) or dhanush22092002@gmail.com  and my Linkedin profile :https://www.linkedin.com/in/dhanushk2002/
